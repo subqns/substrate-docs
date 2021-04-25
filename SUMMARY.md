@@ -2,11 +2,11 @@
 
 * [Getting started](README.md)
 
-## Node <a id="node-1"></a>
+## Node
 
-* [Install and update](node-1/install-and-update/README.md)
-  * [Start a Node](node-1/install-and-update/start-a-node.md)
-* [Other](node-1/other.md)
+* [Install and update](node/install-and-update/README.md)
+  * [Start a Node](node/install-and-update/start-a-node.md)
+* [Other](node/other.md)
 
 ## TESTNET
 
